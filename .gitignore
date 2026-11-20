@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+runs/
+auth/
+chrome-profile/
+models/
+*.log
